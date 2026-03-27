@@ -5,3 +5,8 @@
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhinesh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhinesh-k2004)
+
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kdhineshkumar2004&theme=dark&hide_border=true)](https://git.io/streak-stats)
